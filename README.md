@@ -38,39 +38,37 @@ The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 - Average Purchase Total per Person by Age Group
 
 
-
-
 ### Top Spenders
 
-Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+-  Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
 
-- SN
-- Purchase Count
-- Average Purchase Price
-- Total Purchase Value
-
-
-
-
-Most Popular Items
-
-Identify the 5 most popular items by purchase count, then list (in a table):
-
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
+    - SN
+    - Purchase Count
+    - Average Purchase Price
+    - Total Purchase Value
 
 
 
 
-Most Profitable Items
+### Most Popular Items
 
-Identify the 5 most profitable items by total purchase value, then list (in a table):
+- Identify the 5 most popular items by purchase count, then list (in a table):
 
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
+    - Item ID
+    - Item Name
+    - Purchase Count
+    - Item Price
+    - Total Purchase Value
+
+
+
+
+### Most Profitable Items
+
+- Identify the 5 most profitable items by total purchase value, then list (in a table):
+
+    - Item ID
+    - Item Name
+    - Purchase Count
+    - Item Price
+    - Total Purchase Value
