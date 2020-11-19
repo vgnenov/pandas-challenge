@@ -1,7 +1,7 @@
 You must include a written description of three observable trends based on the data.
 
 1. Although Female Players make up less than 15% of the total playerbase they spend on average more then male players.
-   The biggest spenders on average were players that did not disclose their gender.+
+   The biggest spenders on average were players that did not disclose their gender.
 
 2. The largest portion of players are from 20-24 years old but the players that spend the most are 35-39 years old,
    indicating people with a larger disposeable income spend more.
