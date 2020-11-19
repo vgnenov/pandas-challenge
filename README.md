@@ -1,6 +1,6 @@
 # Pandas, Pandas, Pandas
 
-![Screenshot](Screenshots/Fantasy.jpg "Screenshot")
+![Screenshot](Screenshots/Fantasy.JPG "Screenshot")
 
 ## Purpose
 Analyze the data for a recent fantasy game Heroes of Pymoli.  The game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.  The company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
