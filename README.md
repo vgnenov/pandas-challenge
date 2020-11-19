@@ -84,11 +84,11 @@ Samples of written code:
 ## Results
 Several interesting trends were observed after the final analysis of the data sets.
 
-1. Although Female Players make up less than 15% of the total playerbase they spend on average more then male players.
+ - Although Female Players make up less than 15% of the total playerbase they spend on average more then male players.
    The biggest spenders on average were players that did not disclose their gender.
 
-2. The largest portion of players are from 20-24 years old but the players that spend the most are 35-39 years old,
+ - The largest portion of players are from 20-24 years old but the players that spend the most are 35-39 years old,
    indicating people with a larger disposeable income spend more.
 
-3. The most profitable item was not the most expensive one.  However the most popular item was also the most profitable
+ - The most profitable item was not the most expensive one.  However the most popular item was also the most profitable
    item, indicating that profitability of an item might be linked to its popularity and marketing.
