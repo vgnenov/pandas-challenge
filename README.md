@@ -74,4 +74,8 @@ The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
     - Total Purchase Value
 
 ## Process
-Utilized the Pandas Library and Jupyter Lab
+Utilized the Pandas Library and Jupyter Lab to analyze and clean the data.
+Various functions and calculations were used in obtaining our data.
+Samples of written code:
+![Screenshot](Instructions/Screenshots/PurchAnalysis.JPG "Screenshot")
+![Screenshot](Instructions/Screenshots/PurchAnalysis2.JPG "Screenshot")
